@@ -67,7 +67,7 @@ Deep-Search-Orchestration-Agent/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Deep-Search-Orchestration-Agent.git
+git clone https://github.com/Mehroz17/First_Deep_Search_Agent.git
 cd Deep-Search-Orchestration-Agent
 ```
 ### 2. Initialize UV 

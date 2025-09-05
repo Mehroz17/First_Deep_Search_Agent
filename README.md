@@ -92,8 +92,11 @@ uv run python main.py
 
 ```
 What will be the impact of Agentic AI on Software Development?
+
 ```
 
 
 ## 📸 Demo Video
-[![Watch the demo](https://img.youtube.com/vi/<YOUTUBE_ID>/0.jpg)](assets/Untitled video - Made with Clipchamp (2).mp4)
+https://github.com/user-attachments/assets/8101028f-6c8f-4f9c-ac46-4b4fa0ddbd04
+
+

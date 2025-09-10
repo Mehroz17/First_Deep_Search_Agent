@@ -82,7 +82,12 @@ source .venv/bin/activate
 ```
 uv sync
 ```
-### 5. Run Main File
+### 5. Add API key 
+```
+Add GEMINI_API_KEY , TAVILY_API_KEY and OPEN_AI_KEY in utils.py
+```
+
+### 6. Run Main File
 ```
 uv run python main.py
 ```
